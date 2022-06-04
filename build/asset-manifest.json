@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.b0e4aba1.css",
+    "main.js": "/myportfolio/static/js/main.220493f8.js",
+    "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/blog.png": "/myportfolio/static/media/blog.ab12e2961f3c79407255.png",
+    "static/media/nutrition.png": "/myportfolio/static/media/nutrition.2e8f9fb03c2a4bc01f35.png",
+    "static/media/resume.png": "/myportfolio/static/media/resume.5ff4e55858b76e149ce6.png",
+    "static/media/D_AI.png": "/myportfolio/static/media/D_AI.2b6ff2331a4a31ed2d72.png",
+    "static/media/home-bg.jpg": "/myportfolio/static/media/home-bg.111feed9f20c7feee586.jpg",
+    "static/media/LATEST_CV.pdf": "/myportfolio/static/media/LATEST_CV.836f64fc8070382e4571.pdf",
+    "static/media/logo.png": "/myportfolio/static/media/logo.5aacfff26039c4db7dd7.png",
+    "static/media/rpg.png": "/myportfolio/static/media/rpg.27c48202ab3487294b7d.png",
+    "static/media/home-main.svg": "/myportfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/myportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/bb.jpeg": "/myportfolio/static/media/bb.7cedecac258dc0daa34f.jpeg",
+    "static/media/avatar.svg": "/myportfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/myportfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.b0e4aba1.css.map": "/myportfolio/static/css/main.b0e4aba1.css.map",
+    "main.220493f8.js.map": "/myportfolio/static/js/main.220493f8.js.map",
+    "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e4aba1.css",
+    "static/js/main.220493f8.js"
+  ]
+}
