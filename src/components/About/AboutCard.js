@@ -17,23 +17,29 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing outdoor Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Blogs
+              <ImPointRight /> Reading Books
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Writting poems
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> listening Music
             </li>
             <li className="about-activity">
               <ImPointRight /> Spiritualism
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(255 0 255)" }}>
             "By Spiritualism and Science "{" "}
           </p>
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(255 0 255)" }}>
             "Lets Change The world !"{" "}
           </p>
           <footer className="blockquote-footer">Namo Narayan</footer>
