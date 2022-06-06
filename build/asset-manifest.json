@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio1/static/css/main.f89a3fd0.css",
-    "main.js": "/portfolio1/static/js/main.72d3379b.js",
+    "main.js": "/portfolio1/static/js/main.e1965fbf.js",
     "static/js/787.1f11dfe9.chunk.js": "/portfolio1/static/js/787.1f11dfe9.chunk.js",
     "static/media/blog.png": "/portfolio1/static/media/blog.ab12e2961f3c79407255.png",
     "static/media/nutrition.png": "/portfolio1/static/media/nutrition.2e8f9fb03c2a4bc01f35.png",
     "static/media/resume.png": "/portfolio1/static/media/resume.5ff4e55858b76e149ce6.png",
     "static/media/D_AI.png": "/portfolio1/static/media/D_AI.2b6ff2331a4a31ed2d72.png",
     "static/media/home-bg.jpg": "/portfolio1/static/media/home-bg.111feed9f20c7feee586.jpg",
-    "static/media/LATEST_CV.pdf": "/portfolio1/static/media/LATEST_CV.836f64fc8070382e4571.pdf",
     "static/media/logo.png": "/portfolio1/static/media/logo.5aacfff26039c4db7dd7.png",
     "static/media/rpg.png": "/portfolio1/static/media/rpg.27c48202ab3487294b7d.png",
     "static/media/home-main.svg": "/portfolio1/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/LATEST_CV.pdf": "/portfolio1/static/media/LATEST_CV.8179bbba31df4ec01ce7.pdf",
     "static/media/bb.jpeg": "/portfolio1/static/media/bb.7cedecac258dc0daa34f.jpeg",
     "static/media/avatar.svg": "/portfolio1/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/portfolio1/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio1/index.html",
     "main.f89a3fd0.css.map": "/portfolio1/static/css/main.f89a3fd0.css.map",
-    "main.72d3379b.js.map": "/portfolio1/static/js/main.72d3379b.js.map",
+    "main.e1965fbf.js.map": "/portfolio1/static/js/main.e1965fbf.js.map",
     "787.1f11dfe9.chunk.js.map": "/portfolio1/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f89a3fd0.css",
-    "static/js/main.72d3379b.js"
+    "static/js/main.e1965fbf.js"
   ]
 }
