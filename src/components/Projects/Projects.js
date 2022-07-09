@@ -8,6 +8,8 @@ import D_AI from "../../Assets/Projects/D_AI.png";
 import rpg from "../../Assets/Projects/rpg.png";
 import nutrition from "../../Assets/Projects/nutrition.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import stopwatch from "../../Assets/Projects/stopwatch.png";
+import todo from "../../Assets/Projects/todo.png";
 
 function Projects() {
   return (
@@ -82,6 +84,31 @@ function Projects() {
               link="https://github.com/namo1narayan/healthy-nutrition"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={stopwatch}
+              isBlog={false}
+              title="stopwatch"
+              description="Using with HTML, CSS and JAVASCRIPT a colourful responsive stopwatch is designed."
+              link="https://github.com/namo1narayan/CipherSchools/tree/main/Assignment1"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todo}
+              isBlog={false}
+              title="TODO APPLICATION"
+              description="Using ReactJS a fantastic application  is designed."
+              link="https://github.com/namo1narayan/todo"
+            />
+          </Col>
+
+
+
+
+
         </Row>
       </Container>
     </Container>
