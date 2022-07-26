@@ -6,8 +6,9 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  AiOutlineMail
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn,FaWhatsapp,FaPhoneAlt,FaMapMarkerAlt } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -105,6 +106,53 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
+
+              <li className="social-icons">
+              <a
+                href="https://web.whatsapp.com/send?phone=918559972320&message=Hii Namo"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="icon-colour home-social-icons"
+              >
+                <FaWhatsapp />
+              </a>
+            </li>
+
+            <li className="social-icons">
+                <a
+                  href="tel:+918559972320"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <FaPhoneAlt />
+                </a>
+              </li>
+
+              <li className="social-icons">
+                <a
+                  href="https://www.google.com/maps/place/sukh-shanti+sadan/@26.3881888,86.4932775,17z/data=!3m1!4b1!4m5!3m4!1s0x39ee89f9e3eeb0b3:0x236577d064b63e00!8m2!3d26.3881888!4d86.4954662"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <FaMapMarkerAlt />
+                </a>
+              </li>
+
+              <li className="social-icons">
+                <a
+                  href="mailto:narayanbros3456@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiOutlineMail />
+                </a>
+              </li>
+
+
             </ul>
           </Col>
         </Row>
