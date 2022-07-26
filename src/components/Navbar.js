@@ -15,6 +15,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { TbCertificate } from "react-icons/tb";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -91,6 +92,21 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
+
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/certificates"
+                onClick={() => updateExpanded(false)}
+              >
+                <TbCertificate style={{ marginBottom: "2px" }} /> Certificates
+              </Nav.Link>
+            </Nav.Item>
+
+
+
+
 
             <Nav.Item>
               <Nav.Link

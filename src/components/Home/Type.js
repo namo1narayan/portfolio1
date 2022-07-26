@@ -6,10 +6,11 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Developer",
+          "Web-Developer",
+          "MERN-Stack",
           "Android Studio",
-          "Eclipse",
           "VS Code",
+          "MySQL",
         ],
         autoStart: true,
         loop: true,
