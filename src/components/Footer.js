@@ -66,7 +66,7 @@ function Footer() {
 
             <li className="social-icons">
              <a
-                href="https://web.whatsapp.com/send?phone=918559972320&message=Hii Namo"
+                href="https://whatsapp.com/send?phone=918559972320&message=Hii Namo"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
